@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,t as a,o as n}from"./C0sQCcd7.js";const c={},r={class:"container"};function i(e,l){return n(),s("div",r,[t("h1",null,a(e.$t("about.title")),1),t("div",null,a(e.$t("about.info")),1)])}const d=o(c,[["render",i],["__scopeId","data-v-4bbea60e"]]);export{d as default};

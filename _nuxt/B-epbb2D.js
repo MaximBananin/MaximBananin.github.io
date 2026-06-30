@@ -1,0 +1,1 @@
+import{p as i,q as s}from"./C0sQCcd7.js";const m=i("portfolio",()=>{const e=s(Array.from({length:5},(r,o)=>{const t=o;return{id:t,titleKey:`portfolio.items.item${t}.title`,descriptionKey:`portfolio.items.item${t}.desc`,stackKey:`portfolio.items.item${t}.stack`}}));return{portfolio:e,getPortfolioById:r=>e.value.find(o=>o.id===r)}});export{m as u};

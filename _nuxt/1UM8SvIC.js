@@ -1,0 +1,1 @@
+import{p as i,q as c}from"./C0sQCcd7.js";const n=i("products",()=>{const r=c(Array.from({length:5},(s,t)=>{const e=t;return{id:e,titleKey:`services.items.item${e}.title`,descriptionKey:`services.items.item${e}.desc`,stackKey:`services.items.item${e}.stack`,priceKey:`services.items.item${e}.price`}}));return{products:r,getProductById:s=>r.value.find(t=>t.id===s)}});export{n as u};

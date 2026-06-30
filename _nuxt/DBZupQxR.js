@@ -1,0 +1,1 @@
+import{_ as o,c as a,a as n,t,o as r}from"./C0sQCcd7.js";const l={},c={class:"container"};function i(e,s){return r(),a("div",c,[n("h1",null,t(e.$t("main_desc")),1),s[0]||(s[0]=n("br",null,null,-1)),n("h2",null,t(e.$t("main_info")),1)])}const d=o(l,[["render",i]]);export{d as default};
