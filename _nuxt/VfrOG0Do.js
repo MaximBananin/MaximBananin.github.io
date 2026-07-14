@@ -1,0 +1,1 @@
+import{_ as e}from"./n9lsUVZ_.js";import{u as t}from"./BE9Rdj59.js";import{f as n,i as r,m as s,o as _}from"./ML6qkrVT.js";const l=n({__name:"index",setup(a){t();const{locale:c}=r();return(m,p)=>{const o=e;return _(),s(o)}}});export{l as default};
